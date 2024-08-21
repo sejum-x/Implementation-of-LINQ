@@ -1,0 +1,8 @@
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\bin\Debug\08_LINQ_Select.exe.config
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\bin\Debug\08_LINQ_Select.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\bin\Debug\08_LINQ_Select.pdb
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\obj\Debug\08_LINQ_Select.csproj.AssemblyReference.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\obj\Debug\08_LINQ_Select.csproj.SuggestedBindingRedirects.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\obj\Debug\08_LINQ_Select.csproj.CoreCompileInputs.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\obj\Debug\08_LINQ_Select.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\08_LINQ_Select\obj\Debug\08_LINQ_Select.pdb

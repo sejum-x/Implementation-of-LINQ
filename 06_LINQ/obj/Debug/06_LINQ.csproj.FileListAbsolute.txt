@@ -1,0 +1,8 @@
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\bin\Debug\06_LINQ.exe.config
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\bin\Debug\06_LINQ.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\bin\Debug\06_LINQ.pdb
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\obj\Debug\06_LINQ.csproj.AssemblyReference.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\obj\Debug\06_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\obj\Debug\06_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\obj\Debug\06_LINQ.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\06_LINQ\obj\Debug\06_LINQ.pdb

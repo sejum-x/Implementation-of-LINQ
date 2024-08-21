@@ -1,0 +1,8 @@
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\bin\Debug\03_System_delegates.exe.config
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\bin\Debug\03_System_delegates.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\bin\Debug\03_System_delegates.pdb
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\obj\Debug\03_System_delegates.csproj.AssemblyReference.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\obj\Debug\03_System_delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\obj\Debug\03_System_delegates.csproj.CoreCompileInputs.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\obj\Debug\03_System_delegates.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\03_System_delegates\obj\Debug\03_System_delegates.pdb

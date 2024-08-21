@@ -1,0 +1,8 @@
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\bin\Debug\04_Iterator.exe.config
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\bin\Debug\04_Iterator.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\bin\Debug\04_Iterator.pdb
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\obj\Debug\04_Iterator.csproj.AssemblyReference.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\obj\Debug\04_Iterator.csproj.SuggestedBindingRedirects.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\obj\Debug\04_Iterator.csproj.CoreCompileInputs.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\obj\Debug\04_Iterator.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\04_Iterator\obj\Debug\04_Iterator.pdb

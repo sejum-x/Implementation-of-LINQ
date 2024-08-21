@@ -1,0 +1,8 @@
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\bin\Debug\07_LINQ_Where.exe.config
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\bin\Debug\07_LINQ_Where.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\bin\Debug\07_LINQ_Where.pdb
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\obj\Debug\07_LINQ_Where.csproj.AssemblyReference.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\obj\Debug\07_LINQ_Where.csproj.SuggestedBindingRedirects.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\obj\Debug\07_LINQ_Where.csproj.CoreCompileInputs.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\obj\Debug\07_LINQ_Where.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\07_LINQ_Where\obj\Debug\07_LINQ_Where.pdb

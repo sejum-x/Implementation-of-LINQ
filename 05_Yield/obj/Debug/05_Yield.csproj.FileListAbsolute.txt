@@ -1,0 +1,8 @@
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\bin\Debug\05_Yield.exe.config
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\bin\Debug\05_Yield.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\bin\Debug\05_Yield.pdb
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\obj\Debug\05_Yield.csproj.AssemblyReference.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\obj\Debug\05_Yield.csproj.SuggestedBindingRedirects.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\obj\Debug\05_Yield.csproj.CoreCompileInputs.cache
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\obj\Debug\05_Yield.exe
+C:\Users\OLHI\Desktop\Lerning\Implementation of basic LINQ methods\05_Yield\obj\Debug\05_Yield.pdb
